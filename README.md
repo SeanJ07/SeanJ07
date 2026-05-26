@@ -1,6 +1,6 @@
 # 👋 Sean Jenkins
 
-**Founded Hourhand Studios (🏆 4th nationally). Building JARVIS. Reviving the studio as Jenkins Digital Design.**
+**Founded Hourhand Studios (🏆 4th in state). Reviving it as Jenkins Digital Design. Building JARVIS. ⚡**
 
 ---
 
@@ -9,7 +9,7 @@
 | Phase | What |
 |-------|------|
 | **Senior Year** | Founded **Hourhand Studios** — assembled a SkillsUSA team, led game dev, shipped BeneathArcantum |
-| **🏆 Nationals** | Placed **4th in the country**. 53 C# scripts — built by a high school team |
+| **🏆 States** | Placed **4th in the state**. 53 C# scripts, 12 scenes — built by a high school team |
 | **Post-Grad** | Marketed student passion projects — Instagram, YouTube, Twitch |
 | **Now** | Reviving the studio → **Jenkins Digital Design** (STEAM YouTube) + building **Hermes → JARVIS** |
 
@@ -36,9 +36,9 @@ STEAM education YouTube channel in the works. Each contributor teaches their pas
 | Repo | What |
 |------|------|
 | ⚡ [hermes-instant-lore-bot](https://github.com/SeanJ07/hermes-instant-lore-bot) | "Give me lore" — instant free certs & badges, curated by Hermes |
-| 🏆 [BeneathArcantum](https://github.com/SeanJ07/BeneathArcantum) | 4th nationally — SkillsUSA 3D platformer by Hourhand Studios |
+| 🏆 [BeneathArcantum](https://github.com/SeanJ07/BeneathArcantum) | 4th in state — SkillsUSA 3D platformer by Hourhand Studios |
 | 🏥 [Jenkins Health Insurance Agent](https://github.com/SeanJ07/ChatGPTWebpageDemo) | AI chatbot prototype for my dad's healthcare company |
-| ⏳ [Hourhand → JDD Portfolio](https://github.com/SeanJ07/HourhandWebsite) | The full studio story — founding → nationals → revival |
+| ⏳ [Hourhand → JDD Portfolio](https://github.com/SeanJ07/HourhandWebsite) | The full studio story — founding → states → revival |
 | 🃏 [MTG Deck Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer) | Moxfield deck color breakdown via Scryfall API |
 | 🎮 [GMTKGameJam2024](https://github.com/SeanJ07/GMTKGameJam2024) | Tiny Tim's Big Adventure — game jam entry |
 | 🚀 [Finding-Elon](https://github.com/SeanJ07/Finding-Elon) | "Rescue Elon from the evil rember" — game jam entry |
@@ -73,4 +73,4 @@ STEAM education YouTube channel in the works. Each contributor teaches their pas
 
 ---
 
-> *"Hourhand Studios → Jenkins Digital Design → JARVIS. 4th nationally and just getting started."*
+> *"Hourhand Studios → Jenkins Digital Design → JARVIS. 4th in state and just getting started."*
