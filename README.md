@@ -1,43 +1,58 @@
-# 👋 Sean J
+# 👋 Sean Jenkins
 
-**CS student | Building JARVIS — one step at a time ⚡**
+**Founded Hourhand Studios (🏆 4th nationally). Building JARVIS. Reviving the studio as Jenkins Digital Design.**
 
 ---
 
-## 🧭 Building JARVIS
+## 🕰️ The Arc
 
-I'm building **Hermes** — an AI assistant that runs 24/7, responds to voice, works on every device, and eventually sees through custom glasses. Every project here feeds that mission.
+| Phase | What |
+|-------|------|
+| **Senior Year** | Founded **Hourhand Studios** — assembled a SkillsUSA team, led game dev, shipped BeneathArcantum |
+| **🏆 Nationals** | Placed **4th in the country**. 53 C# scripts — built by a high school team |
+| **Post-Grad** | Marketed student passion projects — Instagram, YouTube, Twitch |
+| **Now** | Reviving the studio → **Jenkins Digital Design** (STEAM YouTube) + building **Hermes → JARVIS** |
 
-| [![JARVIS Roadmap](https://img.shields.io/badge/JARVIS_Roadmap-5_Steps-7986cb?style=for-the-badge)](https://github.com/SeanJ07/SeanJ07/blob/main/IDEAS.md) | [![Portfolio](https://img.shields.io/badge/Portfolio_Site-→-e0e0e0?style=for-the-badge)](https://github.com/SeanJ07/HourhandWebsite) |
-|---|---|
+---
+
+## 🎥 Jenkins Digital Design
+
+STEAM education YouTube channel in the works. Each contributor teaches their passion:
+
+| 🎵 Music & Sound | 💻 Comp Engineering | 🔭 Astronomy | 🎨 Digital Art | 🔒 Cybersecurity |
+|---|---|---|---|---|
 
 ---
 
 ## ⚡ Featured Projects
 
-| [![hermes-instant-lore-bot](https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=hermes-instant-lore-bot&theme=dark)](https://github.com/SeanJ07/hermes-instant-lore-bot) | [![Hermes Web Chat](https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=ChatGPTWebpageDemo&theme=dark)](https://github.com/SeanJ07/ChatGPTWebpageDemo) |
+| [![hermes-instant-lore-bot](https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=hermes-instant-lore-bot&theme=dark)](https://github.com/SeanJ07/hermes-instant-lore-bot) | [![BeneathArcantum](https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=BeneathArcantum&theme=dark)](https://github.com/SeanJ07/BeneathArcantum) |
 |---|---|
 
 ---
 
-## 🎯 Completed Projects
+## 🧭 All Projects
 
-| Repo | What | Lang |
-|------|------|------|
-| ⚡ [hermes-instant-lore-bot](https://github.com/SeanJ07/hermes-instant-lore-bot) | "Give me lore" — instant free certs & badges, powered by Hermes | — |
-| 🏥 [Jenkins Health Insurance Agent](https://github.com/SeanJ07/ChatGPTWebpageDemo) | AI chatbot prototype for dad's healthcare company — 24/7 client support | HTML |
-| 🎨 [Portfolio Site](https://github.com/SeanJ07/HourhandWebsite) | My personal portfolio — real projects, JARVIS roadmap | HTML |
-| 🃏 [MTG Deck Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer) | Moxfield deck color breakdown using Scryfall API | Python |
-| 🏰 [BeneathArcantum](https://github.com/SeanJ07/BeneathArcantum) | SkillsUSA 3D platformer — 53 scripts, 12 scenes, full game loop | C# |
-| 🎮 [GMTKGameJam2024](https://github.com/SeanJ07/GMTKGameJam2024) | Tiny Tim's Big Adventure — game jam entry | C# |
-| 🚀 [Finding-Elon](https://github.com/SeanJ07/Finding-Elon) | "Rescue Elon from the evil rember" — game jam entry | ASP.NET |
+| Repo | What |
+|------|------|
+| ⚡ [hermes-instant-lore-bot](https://github.com/SeanJ07/hermes-instant-lore-bot) | "Give me lore" — instant free certs & badges, curated by Hermes |
+| 🏆 [BeneathArcantum](https://github.com/SeanJ07/BeneathArcantum) | 4th nationally — SkillsUSA 3D platformer by Hourhand Studios |
+| 🏥 [Jenkins Health Insurance Agent](https://github.com/SeanJ07/ChatGPTWebpageDemo) | AI chatbot prototype for my dad's healthcare company |
+| ⏳ [Hourhand → JDD Portfolio](https://github.com/SeanJ07/HourhandWebsite) | The full studio story — founding → nationals → revival |
+| 🃏 [MTG Deck Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer) | Moxfield deck color breakdown via Scryfall API |
+| 🎮 [GMTKGameJam2024](https://github.com/SeanJ07/GMTKGameJam2024) | Tiny Tim's Big Adventure — game jam entry |
+| 🚀 [Finding-Elon](https://github.com/SeanJ07/Finding-Elon) | "Rescue Elon from the evil rember" — game jam entry |
+
+---
+
+[JARVIS Roadmap →](https://github.com/SeanJ07/SeanJ07/blob/main/IDEAS.md) | [Portfolio →](https://github.com/SeanJ07/HourhandWebsite)
 
 ---
 
 ## 📚 School & Tutorials
 
 <details>
-<summary>Projects from classes, tutorials, and learning (click to expand)</summary>
+<summary>Projects from classes and learning (click to expand)</summary>
 
 | Repo | Context |
 |------|---------|
@@ -58,4 +73,4 @@ I'm building **Hermes** — an AI assistant that runs 24/7, responds to voice, w
 
 ---
 
-> *"Instant lore — powered by [Hermes Agent](https://hermes-agent.nousresearch.com/docs)"*
+> *"Hourhand Studios → Jenkins Digital Design → JARVIS. 4th nationally and just getting started."*
