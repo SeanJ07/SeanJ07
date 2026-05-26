@@ -1,146 +1,100 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Sean+Jenkins;CS+Student+•+Game+Developer;Founded+Hourhand+Studios+(4th+in+State);Building+Hermes+→+JARVIS;Game+Dev+•+AI+•+Cybersecurity&font=Fira+Code&center=true&width=600&height=55&color=F78166&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-
-<br />
-
-<a href="https://github.com/SeanJ07?tab=followers">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/SeanJ07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow" alt="followers" />
-</a>
-<a href="https://youtube.com/@JenkinsDigitalDesign">
-  <img src="https://img.shields.io/badge/YouTube-Jenkins%20Digital%20Design-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://seanj07.github.io/HourhandWebsite/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-F78166?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-
-<br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=SeanJ07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F78166&icon_color=F78166&text_color=c9d1d9&hide=stars&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SeanJ07&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F78166&ring=F78166&fire=F78166&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=F78166&sideLabels=c9d1d9" height="170" alt="GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanJ07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F78166&text_color=c9d1d9&hide=shaderlab,mathematica,hlsl" height="160" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeanJ07&theme=github-compact&hide_border=true&bg_color=0d1117&color=F78166&line=F78166&point=c9d1d9&area=true&area_color=F7816633" height="160" alt="Activity Graph" />
-
-</div>
-
----
-
-<br />
-
-<div align="center">
-  <h3>🕰️ &nbsp; The Arc</h3>
-</div>
-
-| &nbsp;&nbsp;🏫 Senior Year | &nbsp;&nbsp;🏆 States | &nbsp;&nbsp;🎓 Post-Grad | &nbsp;&nbsp;⚡ Now |
-|:---:|:---:|:---:|:---:|
-| Founded **Hourhand Studios** | Placed **4th in State** | Marketed student projects | Reviving as **Jenkins Digital Design** |
-| Assembled SkillsUSA team | 53 C# scripts, 12 scenes | Instagram • YouTube • Twitch | STEAM channel + **Hermes → JARVIS** |
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-  <h3>⚡ &nbsp; Featured Work</h3>
-</div>
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/SeanJ07/BeneathArcantum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=BeneathArcantum&theme=dark&bg_color=0d1117&title_color=F78166&icon_color=F78166&text_color=c9d1d9&hide_border=true" alt="BeneathArcantum" />
-  </a>
-  <br />
-  <sub>🏆 4th in state — SkillsUSA 3D platformer. <b>53 C# scripts, 12 scenes.</b></sub>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/SeanJ07/hermes-instant-lore-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=hermes-instant-lore-bot&theme=dark&bg_color=0d1117&title_color=F78166&icon_color=F78166&text_color=c9d1d9&hide_border=true" alt="hermes-instant-lore-bot" />
-  </a>
-  <br />
-  <sub>⚡ "Give me lore" — free certs & badges, curated by Hermes. Stack your aura.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/SeanJ07/ChatGPTWebpageDemo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=ChatGPTWebpageDemo&theme=dark&bg_color=0d1117&title_color=F78166&icon_color=F78166&text_color=c9d1d9&hide_border=true" alt="ChatGPTWebpageDemo" />
-  </a>
-  <br />
-  <sub>🏥 AI chatbot prototype — Jenkins Health Insurance.</sub>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/SeanJ07/moxfield-deck-color-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=moxfield-deck-color-analyzer&theme=dark&bg_color=0d1117&title_color=F78166&icon_color=F78166&text_color=c9d1d9&hide_border=true" alt="moxfield-deck-color-analyzer" />
-  </a>
-  <br />
-  <sub>🃏 MTG deck color analyzer — Moxfield + Scryfall API.</sub>
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <a href="https://seanj07.github.io/HourhandWebsite/">
-    <img src="https://img.shields.io/badge/🎨_Full_Portfolio-View_All_Projects_→-F78166?style=for-the-badge" alt="Full Portfolio" />
-  </a>
-</div>
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-  <h3>🎥 &nbsp; Jenkins Digital Design</h3>
-  <p>STEAM education YouTube — each contributor teaches their passion:</p>
-  <br />
-</div>
-
-| &nbsp;&nbsp;🎵 Music | &nbsp;&nbsp;💻 Comp Eng | &nbsp;&nbsp;🔭 Astronomy | &nbsp;&nbsp;🎨 Digital Art | &nbsp;&nbsp;🔒 Cybersecurity |
-|:---:|:---:|:---:|:---:|:---:|
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-  <h3>🛠️ &nbsp; Tech Stack</h3>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Sean+Jenkins;CS+Student+%7C+Game+Dev+%7C+AI+Builder;Founder+of+Hourhand+Studios;Building+Spiral+%E2%80%94+Personal+AI+Assistant;Unity+%E2%80%A2+C%23+%E2%80%A2+Python+%E2%80%A2+Roblox&font=Fira+Code&center=true&width=580&height=55&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+</p>
 
 <p align="center">
+  <a href="https://github.com/SeanJ07?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SeanJ07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow" />
+  </a>
+  <a href="https://discord.gg/jenkinsrobotics">
+    <img src="https://img.shields.io/badge/Discord-Jenkins%20Robotics-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeanJ07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeanJ07&theme=github-dark-blue&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanJ07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165" alt="Top Languages" />
+</p>
+
+---
+
+### 🧠 What I'm Building
+
+**Spiral — Personal AI Assistant**
+A self-improving Discord bot that reads my code, writes to my Obsidian vault, orchestrates coding agents, and learns from every conversation. Voice and vision coming next. Built on Hermes Agent by Nous Research.
+
+**Jenkins Digital Design (Coming Soon)**
+STEAM education YouTube channel. Each contributor teaches their passion — music, engineering, astronomy, digital art, cybersecurity.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=windows&logoColor=white" alt="WSL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
-<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WSL" />
+</p>
 
 ---
 
-<br />
+### ⚡ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/SeanJ07/BeneathArcantum">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=BeneathArcantum&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="BeneathArcantum" />
+  </a>
+  <a href="https://github.com/SeanJ07/hermes-instant-lore-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=hermes-instant-lore-bot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="hermes-instant-lore-bot" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SeanJ07/ChatGPTWebpageDemo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=ChatGPTWebpageDemo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="ChatGPTWebpageDemo" />
+  </a>
+  <a href="https://github.com/SeanJ07/moxfield-deck-color-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=moxfield-deck-color-analyzer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="moxfield-deck-color-analyzer" />
+  </a>
+</p>
+
+---
+
+### 🏆 Beneath Arcantum — 4th in State
+
+53 C# scripts, 12 scenes, built by my SkillsUSA team at Hourhand Studios. 4th in the state of Colorado. Not the finish I wanted — but the skills from this project launched everything that came after.
+
+---
+
+### 🎥 Jenkins Digital Design (Coming Soon)
+
+| 🎵 Music | 💻 Engineering | 🔭 Astronomy | 🎨 Digital Art | 🔒 Cybersecurity |
+|---|---|---|---|---|
+
+---
 
 <details>
-<summary><b>📚 School & Tutorials</b> (click to expand)</summary>
-<br />
+<summary>📚 School & Tutorial Projects</summary>
+<br>
 
 | Repo | What |
 |------|------|
@@ -157,14 +111,21 @@
 
 </details>
 
-<br />
+---
+
+<details>
+<summary>About me</summary>
+
+- CS student, game developer, AI builder
+- Founded Hourhand Studios — led a SkillsUSA game dev team
+- Building Spiral — a personal AI assistant that manages my code, vault, and projects
+- Learning: Python, AI agents, voice interfaces, full-stack
+- Previously: Unity VR, C# game scripting, HTML/CSS portfolio sites
+
+</details>
 
 ---
 
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeanJ07&color=F78166&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br /><br />
-  <sub>🏆 Hourhand Studios → Jenkins Digital Design → JARVIS</sub>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeanJ07&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
