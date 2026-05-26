@@ -1,34 +1,36 @@
 # 👋 Sean J
 
-**CS student | Game dev | Agent builder**
+**CS student | Building JARVIS — one step at a time ⚡**
 
 ---
 
-## ⚡ Hermes + AI
+## 🧭 Building JARVIS
 
-| [![hermes-instant-lore-bot](https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=hermes-instant-lore-bot)](https://github.com/SeanJ07/hermes-instant-lore-bot) |
-|---|
-| *"give me lore" — instant free certs & badges* |
+I'm building **Hermes** — an AI assistant that runs 24/7, responds to voice, works on every device, and eventually sees through custom glasses. Every project here feeds that mission.
+
+| [![JARVIS Roadmap](https://img.shields.io/badge/JARVIS_Roadmap-5_Steps-7986cb?style=for-the-badge)](https://github.com/SeanJ07/SeanJ07/blob/main/IDEAS.md) | [![Portfolio](https://img.shields.io/badge/Portfolio_Site-→-e0e0e0?style=for-the-badge)](https://github.com/SeanJ07/HourhandWebsite) |
+|---|---|
+
+---
+
+## ⚡ Featured Projects
+
+| [![hermes-instant-lore-bot](https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=hermes-instant-lore-bot&theme=dark)](https://github.com/SeanJ07/hermes-instant-lore-bot) | [![Hermes Web Chat](https://github-readme-stats.vercel.app/api/pin/?username=SeanJ07&repo=ChatGPTWebpageDemo&theme=dark)](https://github.com/SeanJ07/ChatGPTWebpageDemo) |
+|---|---|
 
 ---
 
 ## 🎯 Completed Projects
 
-| Repo | What |
-|------|------|
-| [moxfield-deck-color-analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer) | MTG deck color breakdown tool (Python) |
-| [GMTKGameJam2024](https://github.com/SeanJ07/GMTKGameJam2024) | Tiny Tim's Big Adventure — game jam entry (Unity/C#) |
-| [Finding-Elon](https://github.com/SeanJ07/Finding-Elon) | "Rescue Elon from the evil rember" — game jam entry (ASP.NET) |
-
----
-
-## 🚧 Work In Progress
-
-| Repo | What |
-|------|------|
-| [HourhandWebsite](https://github.com/SeanJ07/HourhandWebsite) | Dark portfolio & storefront (HTML/CSS) |
-| [ChatGPTWebpageDemo](https://github.com/SeanJ07/ChatGPTWebpageDemo) | Demo HTML chatbot pages (HTML) |
-| [BeneathArcantum](https://github.com/SeanJ07/BeneathArcantum) | SkillsUSA game project (C#/Unity) |
+| Repo | What | Lang |
+|------|------|------|
+| ⚡ [hermes-instant-lore-bot](https://github.com/SeanJ07/hermes-instant-lore-bot) | "Give me lore" — instant free certs & badges, powered by Hermes | — |
+| 🌐 [Hermes Web Chat](https://github.com/SeanJ07/ChatGPTWebpageDemo) | Responsive AI chat interface — dark theme, pure HTML/CSS/JS | HTML |
+| 🎨 [Portfolio Site](https://github.com/SeanJ07/HourhandWebsite) | My personal portfolio — real projects, JARVIS roadmap | HTML |
+| 🃏 [MTG Deck Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer) | Moxfield deck color breakdown using Scryfall API | Python |
+| 🏰 [BeneathArcantum](https://github.com/SeanJ07/BeneathArcantum) | SkillsUSA 3D platformer — 53 scripts, 12 scenes, full game loop | C# |
+| 🎮 [GMTKGameJam2024](https://github.com/SeanJ07/GMTKGameJam2024) | Tiny Tim's Big Adventure — game jam entry | C# |
+| 🚀 [Finding-Elon](https://github.com/SeanJ07/Finding-Elon) | "Rescue Elon from the evil rember" — game jam entry | ASP.NET |
 
 ---
 
