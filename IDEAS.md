@@ -1,160 +1,150 @@
-# 📋 PROJECTS.md — What I'm Actually Building
+# 📋 PROJECTS.md — Building JARVIS
 
 > *"Ideas are cheap. Execution is aura."*
-
-Status key:
-- ✅ Done, shipped
-- 🔴 Next up (prioritized)
-- 🟡 Planned (has a real design doc)
-- 💡 Someday (no plan yet)
+> *North Star: Hermes as a JARVIS/EDEN-grade assistant — always listening, everywhere, sees what I see.*
 
 ---
 
-## ✅ COMPLETED
+## 🧭 THE VISION — Hermes as JARVIS / EDEN
 
-### ⚡ Hermes Instant Lore Bot
-**Repo:** [hermes-instant-lore-bot](https://github.com/SeanJ07/hermes-instant-lore-bot)
-**Shipped:** May 2025
+This is why every other project on this board exists. Every commit, every repo, every skill is a brick in this wall.
 
-"Give me lore" → instant free certs, badges, and credentials. Aura factory. Has a Hermes skill attached so I can just ask for certs and get instant answers.
-
-### 🃏 MTG Deck Color Analyzer
-**Repo:** [moxfield-deck-color-analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer)
-**Shipped:** June 2025
-
-Python tool that pulls Moxfield decklists and breaks down color ratios using Scryfall API.
-
-### 🎮 GMTK Game Jam 2024 — Tiny Tim's Big Adventure
-**Repo:** [GMTKGameJam2024](https://github.com/SeanJ07/GMTKGameJam2024)
-
-Submitted, built, done. Game jam entry.
-
-### 🚀 Finding Elon
-**Repo:** [Finding-Elon](https://github.com/SeanJ07/Finding-Elon)
-
-"Rescue Elon from the evil rember." ASP.NET game. Shipped.
-
-### ⚙️ Hermes Optimization
-**What:** Gaming mode / restore mode scripts
-**Shipped:** May 2025
-
-`game-mode-v2.sh` kills gateway, unloads Ollama models, caps WSL memory, kills EpicWebHelper + power plan switching. `restore-mode-v2.sh` reverses everything. Hermes `gaming-mode` skill auto-loads on trigger words.
-
-### 📡 Discord DM Setup
-**What:** Hermes reachable via Discord DM to "Spiral"
-**Shipped:** May 2025
-
-Systemd user service, DM-only, allowlist via DISCORD_ALLOWED_USERS. Works from phone and desktop.
+| JARVIS Trait | What It Means | Our Status |
+|-------------|---------------|------------|
+| 🗣️ Always listening, voice-first | Wake word → Hermes responds anywhere | 🟡 Planned |
+| 📱 Everywhere — all devices | Phone, desktop, Discord, glasses | 🟢 Works on Discord/CLI |
+| 🏠 Controls the house | Smart home (lights, music, automation) | ✅ Hue set up |
+| 👁️ Sees what you see | Camera → Hermes vision in real-time | 💡 Someday |
+| 🧠 Remembers everything | Cross-device memory and session continuity | 🟢 Active |
+| ⚡ Reacts instantly | Local model for fast, cloud for smart | 🟢 Active (multi-provider) |
+| 🏗️ Can build things | MC server, APIs, 3D printing, automation | 🟡 Planned |
 
 ---
 
-## 🔴 NEXT UP (highest priority)
+## 🎯 THE JARVIS ROADMAP (in order)
 
-### 🖥️ Rack PC Migration — Move Hermes Off Gaming PC
-**Priority:** HIGH
-**Difficulty:** Hard
-**Blocked by:** Need rack PC IP + SSH access from Matthew
+```
+Step 1 ──→ Step 2 ──→ Step 3 ──→ Step 4 ──→ Step 5
+Server    Voice     Devices   Vision    Smart Home
+```
 
-**The Plan:**
-1. Deploy Hermes in Docker on rack PC (xmbshwll/hermes-agent-docker or hermeshq)
-2. Install hermes-tool-slimmer for lighter prompts
-3. Copy over all skills, memory, and config from gaming PC
-4. Verify gaming PC lag is gone
+### Step 1: 🖥️ The Brain — A 24/7 Server
+**Status:** 🔴 BLOCKED (needs Matthew's rack PC access)
 
-**Why:** Hermes on my gaming PC eats RAM and causes lag during games. Rack PC already runs 24/7 with a Minecraft server — Hermes belongs there. My PC becomes a thin client connected through Discord/CLI.
+Hermes can't be JARVIS if it only runs when my gaming PC is on. Needs a permanent home.
 
-**Done so far:**
-- [x] Full migration skill created (`rack-pc-migration`)
-- [x] Identified repos/tools needed
-- [ ] Get rack PC access from Matthew
-- [ ] Deploy
+| Option | Pros | Cons |
+|--------|------|------|
+| Matthew's rack PC (now) | Already running 24/7, has MC server | Need access, shared resource |
+| My own home server (later) | Total control, my hardware | $$$, setup time |
+| Cloud VPS | Zero hardware, instant | Monthly cost, privacy |
 
----
+**Done:** Migration plan written, rack-pc-migration skill created. Just need access.
 
-## 🟡 PLANNED (have design docs)
+### Step 2: 🎤 Always Listening — Voice Wake Word
+**Status:** 🟡 No technical plan yet
 
-### ⛏️ Hermes Craft — AI Minecraft Server
-**Platform:** Minecraft Java + Hermes Agent
-**Difficulty:** Medium-Hard
-**Depends on:** Rack PC Migration
+"Hey Hermes" → session opens → voice conversation. Not typing. Real JARVIS energy.
 
-Hermes as a Minecraft server admin — spawn structures, manage players, run events, respond to in-game chat. Eventually: "build me a castle with a moat" and Hermes actually does it.
+| Approach | Difficulty | Notes |
+|----------|------------|-------|
+| Phone always-listening widget | Medium | Most practical start |
+| Desktop mic + wake word daemon | Medium | openWakeWord or Porcupine |
+| Dedicated mic hardware | Hard | Raspberry Pi + mic array |
 
-**Core Features:**
-- In-game chat → Hermes interprets → server commands
-- Scheduled events via Hermes cron jobs
-- AI-generated quests with procedurally spawned dungeons
-- Lore bot that remembers player history
+**Goal:** "Hey Hermes" on my phone, instantly get a voice response. Discord already solves the delivery — this is about the input.
 
-**Path Forward:**
-- Run on rack PC alongside MC server
-- Use lightweight local model (qwen2.5-coder:7b) for real-time responses
-- Batch build commands instead of one-at-a-time execution
+### Step 3: 📱 Every Device — True Omnipresence
+**Status:** 🟢 Discord (partial), 💡 native app (future)
 
-### 🌽 Elote_Dreamin — Elote Tycoon (Papa's Pizzeria Style)
-**Platform:** Roblox
-**Difficulty:** Medium
+| Device | Status | How |
+|--------|--------|-----|
+| Desktop WSL | ✅ CLI + Discord | Already works |
+| Phone (iPhone) | ✅ Discord DM | Works now |
+| MacBook | 💡 Not set up | Same Discord — just log in |
+| Glasses / wearable | 💡 Eden glasses project | Hardware build |
+| Car / speakers | 💡 Bluetooth voice | Future |
 
-Street food tycoon — start with an elote cart, build a restaurant empire. Grill the corn, add mayo, cheese, chili, lime. Serve customers, upgrade. Nobody's done elote on Roblox and the theme is inherently funny/chaotic.
+### Step 4: 👁️ The Eyes — Hermes Sees What You See
+**Status:** 💡 Eden Glasses project
 
-**Core Loop:** Take order → grill corn (timing minigame) → add toppings → serve → earn tips → upgrade
+This is the dream. Point at something and Hermes knows what you're looking at.
 
-**Why Roblox:** Multiplayer/economy/avatars built-in. Tycoon genre is proven. No character modeling needed.
+| Phase | Approach | Difficulty |
+|-------|----------|------------|
+| Phase 0: Phone camera | iPhone camera → Discord image → Hermes vision | Easy — works NOW |
+| Phase 1: Hack existing | Meta Ray-Bans + API | Medium, $300-400 |
+| Phase 2: DIY glasses | Raspberry Pi + camera + display + audio | Hard, $100-200 |
+| Phase 3: Custom Eden glasses | 3D printed frame + custom PCB + optics | Very Hard |
 
-### 🎸 VRMusicTeacher — Real Guitar Training in VR
-**Platform:** Meta Quest (Unity + XR)
-**Difficulty:** Hard
+**Start with Phase 0 TODAY.** Open Discord on your phone, take a photo, send it to Hermes. "What am I looking at?" — instant vision. The glasses make it ambient but the core functionality is already here.
 
-VR app that teaches actual guitar. Not Guitar Hero colored buttons — real chord shapes, real frets, real strumming. See virtual fretboard, place fingers correctly, strum with hand tracking.
+### Step 5: 🏠 The House — Smart Home Control
+**Status:** 🟡 Philips Hue connected, needs Hermes wiring
 
-**Tech Challenges:**
-- Hand tracking accuracy for individual fingers (Quest 3 is better)
-- Audio recognition for pitch detection
-- Latency <20ms for feel
-
-**Scope Down Options:** Start with bass (fewer strings), or drum mode (no fret tracking).
-
-### 🃏 MTG Deck Oracle — AI Commander Analyzer
-**Platform:** Web / Discord bot
-**Difficulty:** Medium
-
-Paste a Moxfield deck URL → AI analyzes synergy, curve, combos, power level. Suggests cuts and adds using EDHREC + Scryfall data. Actually useful for every Commander player.
-
-**Tech:** Python (Scryfall/Moxfield APIs) + Hermes for LLM analysis. Optional Discord bot wrapper.
+Philips Hue is already set up via OpenHue. Hermes can already control lights. Expand to:
+- Music (Spotify integration)
+- Climate (if smart thermostat exists)
+- Routines ("goodnight" → lights off + gateway pause + phone DND)
 
 ---
 
-## 💡 SOMEDAY (no plan yet, just vibes)
+## 🧱 BUILDING BLOCKS (existing projects that feed JARVIS)
 
-### 🏠 Home Server / Cyber Deck
-**What:** Build my own home server rig — custom hardware, possibly a cyber deck form factor (portable retro-futuristic terminal computer)
-**Why:** Own my infrastructure. Run Hermes, Minecraft, media server, whatever. Not dependent on Matthew's rack PC or cloud services.
-**Brain Dump:** Raspberry Pi? Old laptop? Custom 3D printed case? SBC cluster? No decisions made yet — just the idea of having my own server.
+### ✅ Already Done
 
-### 🏗️ HourhandWebsite
-**Repo:** [HourhandWebsite](https://github.com/SeanJ07/HourhandWebsite) (private)
-**Status:** 4 HTML pages done, dark portfolio/storefront vibes. Needs finishing touches, README, deployment.
+| Project | JARVIS Connection |
+|---------|-------------------|
+| Discord DM setup | Hermes on phone — the "everywhere" piece |
+| Gaming mode | Hermes knows when to be quiet — JARVIS etiquette |
+| Multi-provider config | Fast local + smart cloud — the JARVIS brain model |
 
-### 🤖 ChatGPTWebpageDemo
-**Repo:** [ChatGPTWebpageDemo](https://github.com/SeanJ07/ChatGPTWebpageDemo)
-**Status:** Working demo with multiple HTML pages. Got a responsive redesign. Could polish into something useful.
+### 🔴 Next Up
 
-### 🏰 BeneathArcantum
-**Repo:** [BeneathArcantum](https://github.com/SeanJ07/BeneathArcantum) (private)
-**Status:** SkillsUSA game project. Last commit: "game done?" — literally has a question mark. Figure out if it's actually done.
+| Project | JARVIS Connection |
+|---------|-------------------|
+| Rack PC migration | The 24/7 server — Step 1 |
+
+### 🟡 Planned
+
+| Project | JARVIS Connection |
+|---------|-------------------|
+| Hermes Craft | Hermes controls a digital world — the "build things" muscle |
+| Elote_Dreamin | A project Hermes can help build — agent-assisted game dev |
+| VR Music Teacher | Hermes sees your hands and teaches — vision + instruction testbed |
+| MTG Deck Oracle | Hermes analyzes and explains complex systems — the "smart" piece |
+
+### 💡 Someday
+
+| Project | JARVIS Connection |
+|---------|-------------------|
+| Home server / cyber deck | My own JARVIS hardware — total control |
+| Eden Glasses | The eyes — vision anywhere |
+| HourhandWebsite | Portfolio to show off the JARVIS project |
+| BeneathArcantum | Finish something — momentum |
 
 ---
 
-## 📊 AT A GLANCE
+## 📊 THE FULL BOARD
 
-| Status | Count | What |
-|--------|-------|------|
-| ✅ Done | 6 | Lore Bot, MTG Analyzer, 2 game jams, optimization, Discord |
-| 🔴 Next | 1 | Rack PC migration |
-| 🟡 Planned | 4 | Hermes Craft, Elote, VR Music, MTG Oracle |
-| 💡 Someday | 3 | Home server, Hourhand, ChatGPT demo, BeneathArcantum |
+| Status | Count | Projects |
+|--------|-------|----------|
+| ✅ Done | 6 | Lore Bot, MTG Analyzer, 2 game jams, optimization, Discord DM |
+| 🔴 Next Up | 1 | **Rack PC migration** ← unblock this |
+| 🟡 Planned | 4 | Hermes Craft, Elote Tycoon, VR Music, MTG Oracle |
+| 💡 Vision | 5 | Voice wake word, every device, Eden glasses, smart home, 24/7 server |
+
+---
+
+## 🥇 RIGHT NOW — What You Can Do Today
+
+1. **Test Hermes vision on phone:** Discord DM → send photo → "what do you see?"
+2. **Try a voice message:** Discord voice note → Hermes responds
+3. **Ask Matthew for rack PC access** — unblock Step 1
+4. **Play with Hue lights:** "Hermes, dim the lights" (it already works)
 
 ---
 
 *Last updated: May 25, 2025*
-*Next action: Get rack PC access from Matthew and ship the migration.*
+*North Star: Hermes as JARVIS. Every project is a step.*
+*Next action: Unblock rack PC migration (Step 1 of JARVIS roadmap).*
