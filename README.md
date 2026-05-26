@@ -25,7 +25,7 @@ I'm building **Hermes** — an AI assistant that runs 24/7, responds to voice, w
 | Repo | What | Lang |
 |------|------|------|
 | ⚡ [hermes-instant-lore-bot](https://github.com/SeanJ07/hermes-instant-lore-bot) | "Give me lore" — instant free certs & badges, powered by Hermes | — |
-| 🌐 [Hermes Web Chat](https://github.com/SeanJ07/ChatGPTWebpageDemo) | Responsive AI chat interface — dark theme, pure HTML/CSS/JS | HTML |
+| 🏥 [Jenkins Health Insurance Agent](https://github.com/SeanJ07/ChatGPTWebpageDemo) | AI chatbot prototype for dad's healthcare company — 24/7 client support | HTML |
 | 🎨 [Portfolio Site](https://github.com/SeanJ07/HourhandWebsite) | My personal portfolio — real projects, JARVIS roadmap | HTML |
 | 🃏 [MTG Deck Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer) | Moxfield deck color breakdown using Scryfall API | Python |
 | 🏰 [BeneathArcantum](https://github.com/SeanJ07/BeneathArcantum) | SkillsUSA 3D platformer — 53 scripts, 12 scenes, full game loop | C# |
