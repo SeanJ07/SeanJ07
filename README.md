@@ -12,7 +12,7 @@ MTG deck color breakdown via Scryfall. I wanted it, so I built it.
 
 [Portfolio](https://seanj07.github.io) · [LinkedIn](https://linkedin.com/in/seanjenkins41/)
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanJ07&show_icons=true&theme=github_dark&hide_border=true)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanJ07&show_icons=true&theme=github_dark&hide_border=true&bg_color=100f0d&title_color=c41e3a&icon_color=d4a574&text_color=d4a574&border_color=1b1714)
 
 ---
 CSUSB '29 · [Portfolio](https://seanj07.github.io)
