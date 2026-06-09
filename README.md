@@ -1,5 +1,5 @@
 # Sean Jenkins
-<sub>CS student at CSUSB (class of 2029)</sub>
+CS student at CSUSB (class of 2029)
 
 I build games, apps, and tools, usually because the thing I wanted didn't exist or the existing version wasn't good enough.
 
