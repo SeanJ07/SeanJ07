@@ -1,4 +1,7 @@
-Sean Jenkins. CS student at CSUSB (class of 2029). I build games, apps, and tools, usually because the thing I wanted didn't exist or the existing version wasn't good enough.
+# Sean Jenkins
+<sub>CS student at CSUSB (class of 2029)</sub>
+
+I build games, apps, and tools, usually because the thing I wanted didn't exist or the existing version wasn't good enough.
 
 ## What I'm Building
 
@@ -10,7 +13,4 @@ MTG deck color breakdown via Scryfall. I wanted it, so I built it.
 
 ## Find Me
 
-[Portfolio](https://seanj07.github.io) · [LinkedIn](https://linkedin.com/in/seanjenkins41/) · [sean.anthony.jenkins.41@gmail.com](mailto:sean.anthony.jenkins.41@gmail.com)
-
----
-[![Portfolio](https://img.shields.io/badge/Portfolio-c41e3a?style=flat-square)](https://seanj07.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-d4a574?style=flat-square&logo=linkedin&logoColor=100f0d)](https://linkedin.com/in/seanjenkins41/) [![Email](https://img.shields.io/badge/Email-c41e3a?style=flat-square&logo=gmail&logoColor=100f0d)](mailto:sean.anthony.jenkins.41@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c41e3a?style=for-the-badge)](https://seanj07.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-d4a574?style=for-the-badge&logo=linkedin&logoColor=100f0d)](https://linkedin.com/in/seanjenkins41/) [![Email](https://img.shields.io/badge/Email-22C55E?style=for-the-badge)](mailto:sean.anthony.jenkins.41@gmail.com)
