@@ -1,5 +1,5 @@
 # Sean Jenkins
-CS student at CSUSB (class of 2029)
+CSUSB '29
 
 I build games, apps, and tools, usually because the thing I wanted didn't exist or the existing version wasn't good enough.
 
@@ -10,6 +10,8 @@ iPod-inspired music player with skeuomorphic UI and a turntable that actually sp
 
 **[Moxfield Deck Color Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer)**
 MTG deck color breakdown via Scryfall. I wanted it, so I built it.
+
+Also shipped **Beneath Arcantum**, a dungeon crawler that took 4th at SkillsUSA California State Championship. 53 scripts, 12 scenes, done.
 
 ## Find Me
 
