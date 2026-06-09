@@ -1,4 +1,4 @@
-I'm Sean. CS student at CSUSB, graduating in '27. I build games, apps, and tools — usually because the existing options weren't good enough.
+I'm Sean. CS student at CSUSB, graduating in '29. I build games, apps, and tools — usually because the existing options weren't good enough.
 
 ## What I'm Building
 
