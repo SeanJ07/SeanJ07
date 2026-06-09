@@ -1,17 +1,15 @@
 # Sean Jenkins
 CSUSB '29
 
-I build games, apps, and tools, usually because the thing I wanted didn't exist or the existing version wasn't good enough.
+I build games, apps, and tools — usually because the thing I wanted didn't exist or the existing version wasn't good enough.
 
-## What I'm Building
+## Projects
 
-**[Spool](https://github.com/SeanJ07/spool-music-player)**
-iPod-inspired music player with skeuomorphic UI and a turntable that actually spins. Modern music apps forgot how to feel like real objects, so I made one that remembers.
+**[Spool](https://github.com/SeanJ07/spool-music-player)** — iPod-inspired music player with skeuomorphic UI and a turntable that actually spins.
 
-**[Moxfield Deck Color Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer)**
-MTG deck color breakdown via Scryfall. I wanted it, so I built it.
+**[Moxfield Deck Color Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer)** — MTG deck color breakdown via Scryfall.
 
-Also shipped **Beneath Arcantum**, a dungeon crawler that took 4th at SkillsUSA California State Championship. 53 scripts, 12 scenes, done.
+**[Beneath Arcantum](https://github.com/SeanJ07/BeneathArcantum)** — Steampunk puzzle platformer. Took 4th at SkillsUSA California State Championship.
 
 ## Find Me
 
