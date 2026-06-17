@@ -9,7 +9,7 @@ I build games, apps, and tools — usually because the thing I wanted didn't exi
 
 **[Moxfield Deck Color Analyzer](https://github.com/SeanJ07/moxfield-deck-color-analyzer)** — MTG deck color breakdown via Scryfall.
 
-**[Beneath Arcantum](https://github.com/SeanJ07/BeneathArcantum)** — Steampunk puzzle platformer. Took 4th at SkillsUSA California State Championship.
+**[BBSO Redesign](https://github.com/SeanJ07/bbso-redesign)** — Big Bear Solar Observatory website redesign. Shipped and awaiting director review.
 
 ## Find Me
 
